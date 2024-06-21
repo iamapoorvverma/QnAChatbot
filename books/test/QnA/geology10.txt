@@ -1,0 +1,10 @@
+Q-Rock units become thicker and shorten when placed under this type of compression.
+A-horizontal
+Q-Where do thrust faults form?
+A-In the shallow crust
+Q-When rock folds deep in the Earth it can fold one of two ways, when it buckles upwards it creates what?
+A-antiforms
+Q-When rock folds deep in the Earth it can fold one of two ways, when it buckles downwards it creates what?
+A-synforms
+Q-If the tops of the rock units within the folds remain pointing upwards, they are called what?
+A-anticlines and synclines

@@ -1,0 +1,12 @@
+Q-What types of waves do seismologists use to image the interior of the Earth?
+A-seismic waves
+Q-In the layered model of the Earth, the outermost layer is what?
+A-crust
+Q-In the layered model of the Earth, the mantle has two layers below it. What are they?
+A-crust and lithosphere
+Q-In the layered model of the Earth there are seismic discontinuities in which layer?
+A-mantle
+Q-Recently a more detailed model of the Earth was developed. Seismologists were able to create this using images of what from the interior of the Earth?
+A-wave speeds
+Q-What do seismologists use to map the Earth's crust?
+A-No Answer

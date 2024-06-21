@@ -1,0 +1,290 @@
+geology1.txt
+There are three major types of rock: igneous, sedimentary, and metamorphic. The rock cycle is an important concept in geology which illustrates the relationships between these three types of rock, and magma. When a rock crystallizes from melt (magma and/or lava), it is an igneous rock. This rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock due to heat and pressure that change the mineral content of the rock which gives it a characteristic fabric. The sedimentary rock can then be subsequently turned into a metamorphic rock due to heat and pressure and is then weathered, eroded, deposited, and lithified, ultimately becoming a sedimentary rock. Sedimentary rock may also be re-eroded and redeposited, and metamorphic rock may also undergo additional metamorphism. All three types of rocks may be re-melted; when this happens, a new magma is formed, from which an igneous rock may once again crystallize.
+
+Question: An igneous rock is a rock that crystallizes from what?
+Ground Truth Answer: melt
+Predicted Answer: melt
+
+Question: Sedimentary rock can be turned into which of the three types of rock?
+Ground Truth Answer: metamorphic rock
+Predicted Answer: igneous sedimentary and metamorphic
+
+Question: When the three types of rock are re-melted what is formed?
+Ground Truth Answer: a new magma
+Predicted Answer: a new magma
+
+Question: What are the three major types of rock?
+Ground Truth Answer: igneous, sedimentary, and metamorphic
+Predicted Answer: igneous, sedimentary, and metamorphic
+
+Question: What changes the mineral content of a rock?
+Ground Truth Answer: heat and pressure
+Predicted Answer: heat and pressure
+
+total Questions: 5.0
+No. of answers predicted correctly: 4
+accuracy: 0.8
+
+geology10.txt
+When rock units are placed under horizontal compression, they shorten and become thicker. Because rock units, other than muds, do not significantly change in volume, this is accomplished in two primary ways: through faulting and folding. In the shallow crust, where brittle deformation can occur, thrust faults form, which cause deeper rock to move on top of shallower rock. Because deeper rock is often older, as noted by the principle of superposition, this can result in older rocks moving on top of younger ones. Movement along faults can result in folding, either because the faults are not planar or because rock layers are dragged along, forming drag folds as slip occurs along the fault. Deeper in the Earth, rocks behave plastically, and fold instead of faulting. These folds can either be those where the material in the center of the fold buckles upwards, creating "antiforms", or where it buckles downwards, creating "synforms". If the tops of the rock units within the folds remain pointing upwards, they are called anticlines and synclines, respectively. If some of the units in the fold are facing downward, the structure is called an overturned anticline or syncline, and if all of the rock units are overturned or the correct up-direction is unknown, they are simply called by the most general terms, antiforms and synforms.
+
+Question: Rock units become thicker and shorten when placed under this type of compression.
+Ground Truth Answer: horizontal
+Predicted Answer: <No Answer>
+
+Question: Where do thrust faults form?
+Ground Truth Answer: In the shallow crust
+Predicted Answer: In the shallow crust
+
+Question: When rock folds deep in the Earth it can fold one of two ways, when it buckles upwards it creates what?
+Ground Truth Answer: antiforms
+Predicted Answer: antiforms
+
+Question: When rock folds deep in the Earth it can fold one of two ways, when it buckles downwards it creates what?
+Ground Truth Answer: synforms
+Predicted Answer: antiforms
+
+Question: If the tops of the rock units within the folds remain pointing upwards, they are called what?
+Ground Truth Answer: anticlines and synclines
+Predicted Answer: anticlines and synclines
+
+total Questions: 5.0
+No. of answers predicted correctly: 3
+accuracy: 0.6
+
+geology2.txt
+In the 1960s, a series of discoveries, the most important of which was seafloor spreading, showed that the Earth's lithosphere, which includes the crust and rigid uppermost portion of the upper mantle, is separated into a number of tectonic plates that move across the plastically deforming, solid, upper mantle, which is called the asthenosphere. There is an intimate coupling between the movement of the plates on the surface and the convection of the mantle: oceanic plate motions and mantle convection currents always move in the same direction, because the oceanic lithosphere is the rigid upper thermal boundary layer of the convecting mantle. This coupling between rigid plates moving on the surface of the Earth and the convecting mantle is called plate tectonics.
+
+Question: What was the most important discovery that led to the understanding that Earth's lithosphere is separated into tectonic plates?
+Ground Truth Answer: seafloor spreading
+Predicted Answer: seafloor spreading
+
+Question: Which parts of the Earth are included in the lithosphere?
+Ground Truth Answer: crust and rigid uppermost portion
+Predicted Answer: the crust and rigid uppermost portion of the upper mantle
+
+Question: What is another word for the Earth's upper mantle?
+Ground Truth Answer: asthenosphere
+Predicted Answer: asthenosphere
+
+Question: Plate tectonics can be seen as the intimate coupling between rigid plates on the surface of the Earth and what?
+Ground Truth Answer: convecting mantle
+Predicted Answer: convecting mantle
+
+Question: In what decade was seafloor spreading discovered?
+Ground Truth Answer: 1960s
+Predicted Answer: 1960s
+
+Question: When was the most important discovery about thermal boundaries made?
+Ground Truth Answer: No Answer
+Predicted Answer: 1960s
+
+Question: What is another word for seafloor spreading?
+Ground Truth Answer: No Answer
+Predicted Answer: <No Answer>
+
+total Questions: 7.0
+No. of answers predicted correctly: 5
+accuracy: 0.7142857142857143
+
+geology3.txt
+The development of plate tectonics provided a physical basis for many observations of the solid Earth. Long linear regions of geologic features could be explained as plate boundaries. Mid-ocean ridges, high regions on the seafloor where hydrothermal vents and volcanoes exist, were explained as divergent boundaries, where two plates move apart. Arcs of volcanoes and earthquakes were explained as convergent boundaries, where one plate subducts under another. Transform boundaries, such as the San Andreas fault system, resulted in widespread powerful earthquakes. Plate tectonics also provided a mechanism for Alfred Wegener's theory of continental drift, in which the continents move across the surface of the Earth over geologic time. They also provided a driving force for crustal deformation, and a new setting for the observations of structural geology. The power of the theory of plate tectonics lies in its ability to combine all of these observations into a single theory of how the lithosphere moves over the convecting mantle.
+
+Question: What is the area called where two plates move apart?
+Ground Truth Answer: divergent boundaries
+Predicted Answer: divergent boundaries
+
+Question: What is the area called where one plate subducts under another?
+Ground Truth Answer: convergent boundaries
+Predicted Answer: convergent boundaries
+
+Question: What type of fault boundary is defined by having widespread powerful earthquakes, as in the state of California?
+Ground Truth Answer: Transform boundaries
+Predicted Answer: San Andreas fault system
+
+Question: Whose theory was the theory of continental drift?
+Ground Truth Answer: Alfred Wegener
+Predicted Answer: Alfred Wegener
+
+Question: The lithosphere moves over which mantle n the theory of plate tectonics?
+Ground Truth Answer: convecting mantle
+Predicted Answer: convecting mantle
+
+total Questions: 5.0
+No. of answers predicted correctly: 4
+accuracy: 0.8
+
+geology4.txt
+Seismologists can use the arrival times of seismic waves in reverse to image the interior of the Earth. Early advances in this field showed the existence of a liquid outer core (where shear waves were not able to propagate) and a dense solid inner core. These advances led to the development of a layered model of the Earth, with a crust and lithosphere on top, the mantle below (separated within itself by seismic discontinuities at 410 and 660 kilometers), and the outer core and inner core below that. More recently, seismologists have been able to create detailed images of wave speeds inside the earth in the same way a doctor images a body in a CT scan. These images have led to a much more detailed view of the interior of the Earth, and have replaced the simplified layered model with a much more dynamic model.
+
+Question: What types of waves do seismologists use to image the interior of the Earth?
+Ground Truth Answer: seismic waves
+Predicted Answer: seismic waves
+
+Question: In the layered model of the Earth, the outermost layer is what?
+Ground Truth Answer: crust
+Predicted Answer: dynamic model
+
+Question: In the layered model of the Earth, the mantle has two layers below it. What are they?
+Ground Truth Answer: crust and lithosphere
+Predicted Answer: crust and lithosphere
+
+Question: In the layered model of the Earth there are seismic discontinuities in which layer?
+Ground Truth Answer: mantle
+Predicted Answer: <No Answer>
+
+Question: Recently a more detailed model of the Earth was developed. Seismologists were able to create this using images of what from the interior of the Earth?
+Ground Truth Answer: wave speeds
+Predicted Answer: wave speeds
+
+Question: What do seismologists use to map the Earth's crust?
+Ground Truth Answer: No Answ
+Predicted Answer: the arrival times of seismic waves
+
+total Questions: 6.0
+No. of answers predicted correctly: 3
+accuracy: 0.5
+
+geology5.txt
+The following four timelines show the geologic time scale. The first shows the entire time from the formation of the Earth to the present, but this compresses the most recent eon. Therefore, the second scale shows the most recent eon with an expanded scale. The second scale compresses the most recent era, so the most recent era is expanded in the third scale. Since the Quaternary is a very short period with short epochs, it is further expanded in the fourth scale. The second, third, and fourth timelines are therefore each subsections of their preceding timeline as indicated by asterisks. The Holocene (the latest epoch) is too small to be shown clearly on the third timeline on the right, another reason for expanding the fourth scale. The Pleistocene (P) epoch. Q stands for the Quaternary period.
+
+Question: Why is the second timeline needed?
+Ground Truth Answer: compresses the most recent era
+Predicted Answer: compresses the most recent era
+
+Question: Which timeline is further expanded in the fourth scale?
+Ground Truth Answer: Quaternary
+Predicted Answer: Quaternary
+
+Question: What is the name of the latest epoch?
+Ground Truth Answer: Holocene
+Predicted Answer: Holocene
+
+Question: The Pleistocene epoch takes place during which period?
+Ground Truth Answer: Quaternary
+Predicted Answer: Quaternary
+
+Question: What does the second timeline compress?
+Ground Truth Answer: No Answ
+Predicted Answer: the most recent era
+
+total Questions: 5.0
+No. of answers predicted correctly: 4
+accuracy: 0.8
+
+geology6.txt
+The principle of cross-cutting relationships pertains to the formation of faults and the age of the sequences through which they cut. Faults are younger than the rocks they cut; accordingly, if a fault is found that penetrates some formations but not those on top of it, then the formations that were cut are older than the fault, and the ones that are not cut must be younger than the fault. Finding the key bed in these situations may help determine whether the fault is a normal fault or a thrust fault.
+
+Question: What principle relates to the formation of faults and the age of the sequences through which they cut?
+Ground Truth Answer: cross-cutting relationships
+Predicted Answer: cross-cutting relationships
+
+Question: When rock formations are found on top of a fault that have not been cut, then they must be older or younger than the fault?
+Ground Truth Answer: younger
+Predicted Answer: younger
+
+Question: Finding what helps to determine if a fault is a normal fault or a thrust fault?
+Ground Truth Answer: key bed
+Predicted Answer: key bed
+
+Question: Rocks on top of a fault that are cut are always older or younger than the fault itself?
+Ground Truth Answer: older than the fau
+Predicted Answer: younger
+
+total Questions: 4.0
+No. of answers predicted correctly: 3
+accuracy: 0.75
+
+geology7.txt
+The principle of inclusions and components states that, with sedimentary rocks, if inclusions (or clasts) are found in a formation, then the inclusions must be older than the formation that contains them. For example, in sedimentary rocks, it is common for gravel from an older formation to be ripped up and included in a newer layer. A similar situation with igneous rocks occurs when xenoliths are found. These foreign bodies are picked up as magma or lava flows, and are incorporated, later to cool in the matrix. As a result, xenoliths are older than the rock which contains them.
+
+Question: What foreign bodies, which are older than the rocks themselves, occur igneous rocks?
+Ground Truth Answer: xenoliths
+Predicted Answer: xenoliths
+
+Question: Xenoliths are picked up by what and deposited into the matrix of igneous rocks?
+Ground Truth Answer: lava flows
+Predicted Answer: lava flows
+
+Question: What is another word for inclusions in sedimentary rocks?
+Ground Truth Answer: clasts
+Predicted Answer: clasts
+
+Question: What is the principle that states that with sedimentary rocks, inclusions must be older than the formation that contains them?
+Ground Truth Answer: principle of inclusions and components
+Predicted Answer: if inclusions (or clasts are found in a formation
+
+Question: What is something that is often torn up and included in sedimentary rock?
+Ground Truth Answer: gravel
+Predicted Answer: gravel
+
+total Questions: 5.0
+No. of answers predicted correctly: 4
+accuracy: 0.8
+
+geology8.txt
+At the beginning of the 20th century, important advancement in geological science was facilitated by the ability to obtain accurate absolute dates to geologic events using radioactive isotopes and other methods. This changed the understanding of geologic time. Previously, geologists could only use fossils and stratigraphic correlation to date sections of rock relative to one another. With isotopic dates it became possible to assign absolute ages to rock units, and these absolute dates could be applied to fossil sequences in which there was datable material, converting the old relative ages into new absolute ages.
+
+Question: When was the ability to use radioactive isotopes to date rock formations developed?
+Ground Truth Answer: beginning of the 20th century
+Predicted Answer: beginning of the 20th century
+
+Question: What type of correlation was used previously to help date rock formations?
+Ground Truth Answer: stratigraphic
+Predicted Answer: stratigraphic
+
+Question: It is now possible to convert old relative ages into what type of ages using isotopic dating?
+Ground Truth Answer: absolute ages
+Predicted Answer: absolute ages
+
+Question: Previous to isotopic dating sections of rocks had to be dated using fossils and stratigraphic correlation relative to what?
+Ground Truth Answer: one another
+Predicted Answer: one another
+
+Question: When dating rocks, what is the absolute isotopic date applied to?
+Ground Truth Answer: fossil sequences
+Predicted Answer: fossil sequences
+
+Question: What do seismologists use to map the Earth's crust?
+Ground Truth Answer: No Answ
+Predicted Answer: radioactive isotopes
+
+total Questions: 6.0
+No. of answers predicted correctly: 5
+accuracy: 0.8333333333333334
+
+geology9.txt
+For many geologic applications, isotope ratios of radioactive elements are measured in minerals that give the amount of time that has passed since a rock passed through its particular closure temperature, the point at which different radiometric isotopes stop diffusing into and out of the crystal lattice. These are used in geochronologic and thermochronologic studies. Common methods include uranium-lead dating, potassium-argon dating, argon-argon dating and uranium-thorium dating. These methods are used for a variety of applications. Dating of lava and volcanic ash layers found within a stratigraphic sequence can provide absolute age data for sedimentary rock units which do not contain radioactive isotopes and calibrate relative dating techniques. These methods can also be used to determine ages of pluton emplacement. Thermochemical techniques can be used to determine temperature profiles within the crust, the uplift of mountain ranges, and paleotopography.
+
+Question: What techniques can be used to determine paleotopography?
+Ground Truth Answer: Thermochemical
+Predicted Answer: Thermochemical
+
+Question: The point at which different radiometric isotopes stop diffusing into and out of the crystal lattice is called what?
+Ground Truth Answer: closure temperature
+Predicted Answer: closure temperature
+
+Question: What type of ratios are used in geochronologic and thermochronologic studies?
+Ground Truth Answer: isotope ratios
+Predicted Answer: isotope ratios
+
+Question: How can you find the absolute age of sedimentary rock units which do not contain radioactive isotopes?
+Ground Truth Answer: Dating of lava and volcanic ash layers
+Predicted Answer: Dating of lava and volcanic ash layers
+
+total Questions: 4.0
+No. of answers predicted correctly: 4
+accuracy: 1.0
+
+
+ Number      Filename       Total Que Correctly Predicted  Accuracy
+ 1          geology1.txt         5.0        3               0.6
+ 2          geology10.txt        5.0        3               0.6
+ 3          geology2.txt         7.0        5               0.7142857142857143
+ 4          geology3.txt         5.0        4               0.8
+ 5          geology4.txt         6.0        3               0.5
+ 6          geology5.txt         5.0        4               0.8
+ 7          geology6.txt         4.0        3               0.75
+ 8          geology7.txt         5.0        4               0.8
+ 9          geology8.txt         6.0        5               0.8333333333333334
+ 10         geology9.txt         4.0        4               1.0

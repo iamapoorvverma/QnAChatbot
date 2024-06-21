@@ -1,0 +1,8 @@
+Q-What techniques can be used to determine paleotopography?
+A-Thermochemical
+Q-The point at which different radiometric isotopes stop diffusing into and out of the crystal lattice is called what?
+A-closure temperature
+Q-What type of ratios are used in geochronologic and thermochronologic studies?
+A-isotope ratios
+Q-How can you find the absolute age of sedimentary rock units which do not contain radioactive isotopes?
+A-Dating of lava and volcanic ash layers

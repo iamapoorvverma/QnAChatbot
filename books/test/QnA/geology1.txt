@@ -1,0 +1,10 @@
+Q-An igneous rock is a rock that crystallizes from what?
+A-melt
+Q-Sedimentary rock can be turned into which of the three types of rock?
+A-metamorphic rock
+Q-When the three types of rock are re-melted what is formed?
+A-a new magma
+Q-What are the three major types of rock?
+A-igneous, sedimentary, and metamorphic
+Q-What changes the mineral content of a rock?
+A-heat and pressure
